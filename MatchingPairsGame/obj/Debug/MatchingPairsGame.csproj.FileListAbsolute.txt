@@ -1,0 +1,14 @@
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.manifest
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.application
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Form1.resources
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.cache
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.CoreCompileInputs.cache
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe.manifest
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.application
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
+C:\Users\sesa538385\Source\Repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csprojAssemblyReference.cache
